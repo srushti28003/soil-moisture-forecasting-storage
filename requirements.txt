@@ -1,0 +1,9 @@
+numpy
+pandas
+xarray
+netCDF4
+scipy
+scikit-learn
+tensorflow
+matplotlib
+jupyter
